@@ -9,7 +9,7 @@ Para jogar, você precisa colocar o número na caixinha de texto e clicar no bot
 
 ## 📱💻 Site Responsivo
 
-| Desktop                           | Móvel                            |
+| Desktop                           | Mobile                            |
 | ----------------------------------| ---------------------------------|
 | ![Desktop](Apresentação/Desktop.png) | ![Mobile](Apresentação/Movel.png) |
 
