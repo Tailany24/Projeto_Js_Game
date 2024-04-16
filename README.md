@@ -13,6 +13,11 @@ Para jogar, você precisa colocar o número na caixinha de texto e clicar no bot
 | ----------------------------------| ---------------------------------|
 | ![Desktop](Apresentação/Desktop.png) | ![Mobile](Apresentação/Movel.png) |
 
+## 🎉 Certificação 
+
+<img src="https://github.com/Tailany24/Projeto_Js_Game/assets/139998931/6206da4d-2f4d-4d69-baaa-d9b74f0f8077" width="600" height="450">
+
+
 
 
 
